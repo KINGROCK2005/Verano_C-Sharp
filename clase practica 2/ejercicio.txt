@@ -1,0 +1,17 @@
+elabore una aplicacion consola que muestre el sig menu:
+mesa de cambio  1-venta 2-compra 
+para cada opcion del menu anterior se mostrara el sig mernu:
+tipo de divisas
+1-dolar 2-euro 
+para vender la tasa de cambio sera dolar: 36.10 y euro: 1.0350 dolares.
+para compra sera dolar 36.99 y euro:1.136.
+indicar cuanto recibia o cuanto entregara en cordobas
+
+preguntar el tipo de figura geometrica rectan, triangulo, cuadrado calcular el area
+
+
+prestamo cantidad meses 6, 12, 24, 36,48 interes anual del 24% y clacular cuota mensual
+
+1 24
+6 12
+
