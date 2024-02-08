@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
-      "projectName": "WinFormsApp1",
-      "projectPath": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp1\\WinFormsApp1\\WinFormsApp1.csproj",
+      "projectUniqueName": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
+      "projectName": "WinFormsApp2",
+      "projectPath": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp2\\WinFormsApp2\\WinFormsApp2.csproj",
       "packagesPath": "C:\\Users\\Sistema2-24\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp1\\WinFormsApp1\\obj\\",
+      "outputPath": "C:\\Users\\Sistema2-24\\Desktop\\sesion08-02-2024\\WinFormsApp2\\WinFormsApp2\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sistema2-24\\AppData\\Roaming\\NuGet\\NuGet.Config",
