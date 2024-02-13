@@ -1,0 +1,24 @@
+  private void textBox1_KeyPress(object sender, KeyPressEventArgs e)
+        {
+
+            if (!char.IsDigit(e.KeyChar) && e.KeyChar != '.' && !char.IsControl(e.KeyChar))
+            {
+                e.Handled = true;
+            }
+            else if (e.KeyChar == '.')
+            {
+
+                if (textBox1.Text.Contains("."))
+                {
+                    e.Handled = true;
+                }
+            }
+            else if (textBox1.Text.Contains("."))
+            {
+                string[] parts = textBox1.Text.Split('.');
+                if (parts.Length > 1 && parts[1].Length >= 5)
+                {
+                    e.Handled = true;
+                }
+            }
+        }
