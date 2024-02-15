@@ -1,0 +1,17 @@
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.exe
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.deps.json
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.runtimeconfig.json
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\bin\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form1.resources
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.Form2.resources
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.GenerateResource.cache
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfoInputs.cache
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.AssemblyInfo.cs
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.dll
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\refint\WinFormsApp2.dll
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.pdb
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\WinFormsApp2.genruntimeconfig.cache
+C:\Users\BRENDA\OneDrive\Escritorio\Practica C#\WinFormsApp2\WinFormsApp2\obj\Debug\net8.0-windows\ref\WinFormsApp2.dll
